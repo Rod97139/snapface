@@ -9,7 +9,7 @@ import {NgForm} from "@angular/forms";
 })
 export class LandingPageComponent implements OnInit {
 
-  userEmail: string = 'youremail@google.com';
+  userEmail: string = 'youremail@gmail.com';
 
   constructor(private router: Router) { }
 
