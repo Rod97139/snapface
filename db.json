@@ -50,14 +50,14 @@
       "description": "Mmmh que c'est bon !",
       "imageUrl": "https://wtop.com/wp-content/uploads/2020/06/HEALTHYFRESH.jpg",
       "createdDate": "new Date()",
-      "snaps": 101
+      "snaps": 102
     },
     {
       "title": "test",
       "description": "test",
       "imageUrl": "https://oc-course.imgix.net/partners/19/15433053814225_short-200x200.png?auto=compress,format&q=80&w=165&dpr=1",
       "location": null,
-      "snaps": 1,
+      "snaps": 2,
       "createdAt": "2023-10-09T07:46:35.300Z",
       "id": 7
     }
